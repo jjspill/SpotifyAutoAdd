@@ -47,7 +47,7 @@ Here are the steps to create an Apple Script that runs this application:
 
 3. Copy and paste the following script into the new document:
 
-   ``'
+   ```
    applescript
    tell application "Terminal"
        launch
